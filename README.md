@@ -4,7 +4,7 @@ A dark, gray Firefox 157 (Nova) theme so the browser recedes behind websites. No
 
 AMO listing: [Night Neutral](https://addons.mozilla.org/firefox/addon/night-neutral/).
 
-Pair it with [Night Better](https://github.com/JoelLisenby/firefox-night-better) for the proxy toggle and chrome CSS helpers. Chrome-only and theme+chrome installs are in the [better-firefox gist](https://gist.github.com/JoelLisenby).
+Pair it with [Night Better](https://github.com/JoelLisenby/firefox-night-better) for the proxy toggle and chrome CSS helpers. Chrome-only and theme+chrome installs are in the [better-firefox gist](https://gist.github.com/JoelLisenby/e8bb1dfa7fb2fef3377617b86e3de14b).
 
 ## What it paints
 
