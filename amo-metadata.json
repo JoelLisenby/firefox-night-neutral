@@ -4,7 +4,7 @@
     "en-US": "Dark gray Firefox chrome for Nova so websites stand out."
   },
   "description": {
-    "en-US": "Night Neutral is a dark, gray Firefox chrome for Nova. No purple, no pastels. The browser recedes so websites stand out.\n\nFrame, toolbar, sidebar, and new tab are #000000. The selected tab is #2a2a2a. The address bar is #0a0a0a. Hover and active buttons lift a little off black.\n\nThis is a static theme. It uses the official theme keys only. Those keys do not include corner radius or toolbox layout, so Nova's rounding, tab padding, and the purple top-bar gradient stay unless you also install Night Better and copy its userChrome.css into your profile.\n\nLeave `browser.nova.enabled` on.\n\nPair with Night Better for the proxy toggle, adjustable corner radius, tighter tabs, the solid black top bar, and hiding Share Firefox."
+    "en-US": "Night Neutral is a dark, gray Firefox chrome for Nova. No purple, no pastels. The browser recedes so websites stand out.\n\nFrame, toolbar, sidebar, and new tab are #000000. The selected tab is #2a2a2a. The address bar is #0a0a0a. Hover and active buttons lift a little off black.\n\nThis is a static theme. It uses the official theme keys only. Frame, toolbar, and additional_backgrounds paint the chrome, including a solid black top bar instead of Nova's default gradient. Those keys do not include corner radius or tab spacing, so Nova's rounding and tab padding stay unless you also install Night Better and copy its userChrome.css into your profile.\n\nLeave `browser.nova.enabled` on.\n\nPair with Night Better for the proxy toggle, adjustable corner radius, tighter tabs, and hiding Share Firefox."
   },
   "homepage": {
     "en-US": "https://joellisenby.com/"

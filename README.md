@@ -12,7 +12,7 @@ Frame, toolbar, sidebar, and new tab are `#000000`. The selected tab is `#2a2a2a
 
 Theme keys come from the official [theme manifest](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme). Nova notes from [Mozilla’s add-ons blog](https://blog.mozilla.org/addons/2026/09/29/nova-is-here-what-changes-for-your-firefox-theme/).
 
-Leave `browser.nova.enabled` on. The theme API has no corner-radius property. Nova’s rounding, tab padding, and the purple top-bar gradient stay unless you also copy `userChrome.css` from Night Better (or the better-firefox gist) into your profile.
+Leave `browser.nova.enabled` on. The theme API has no corner-radius property. Nova’s rounding and tab padding stay unless you also copy `userChrome.css` from Night Better (or the better-firefox gist) into your profile. Chrome colors, including the solid black top bar, come from this theme.
 
 ## Install (AMO)
 
